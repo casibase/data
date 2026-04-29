@@ -1,2 +1,2 @@
 # data
-Data for Casibase
+Data for OpenAgent
